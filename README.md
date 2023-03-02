@@ -10,8 +10,6 @@ github.com/masseelch/elk =>  github.com/chestarss/elk
 list.api add such code in template
 
 ```go
-
-```
    // dynamic filter by query string
             queryStringMap := r.URL.Query()
             for qs := range queryStringMap {
@@ -22,7 +20,10 @@ list.api add such code in template
                     }
                 }
             }
----
+
+```
+
+
 
 
 
