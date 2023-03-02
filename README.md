@@ -1,6 +1,33 @@
 # elk
 
+## feature
+add list api support filter by column using query string
+
+just replace entc.go 
+
+github.com/masseelch/elk =>  github.com/chestarss/elk
+
+list.api add such code in template
+
+```go
+
+```
+   // dynamic filter by query string
+            queryStringMap := r.URL.Query()
+            for qs := range queryStringMap {
+                for _, col := range {{ $n.Name | lower }}.Columns {
+                    if col == qs {
+                        q = q.Where(sql.FieldEQ(qs, queryStringMap.Get(qs)))
+                        break
+                    }
+                }
+            }
 ---
+
+
+
+
+
 ## Important
 
 `elk` has been superseded by the extensions [`entoas`](https://github.com/ent/contrib/tree/master/entoas)
