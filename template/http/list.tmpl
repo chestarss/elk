@@ -7,12 +7,24 @@
     {{ template "helper/http/import" $ }}
 
     {{ $pkg := base $.Config.Package }}
-    {{ range $n := filterNodes $ "list" }}
+    {{ range $n := filterNodes $ "read" }}
         // Read fetches the {{ $pkg }}.{{ $n.Name }} identified by a given url-parameter from the
         // database and returns it to the client.
         func (h *{{ $n.Name }}Handler) List(w http.ResponseWriter, r *http.Request) {
             l := h.log.With(zap.String("method", "List"))
             q := h.client.{{ $n.Name }}.Query()
+
+            // dynamic filter by query string
+            queryStringMap := r.URL.Query()
+            for qs := range queryStringMap {
+                for _, col := range {{ $n.Name | lower }}.Columns {
+                    if col == qs {
+                        q = q.Where(sql.FieldEQ(qs, queryStringMap.Get(qs)))
+                        break
+                    }
+                }
+            }
+
             {{- with edges $n "list" }}
                 // Eager load edges that are required on list operation.
                 q{{ .EntQuery }}
