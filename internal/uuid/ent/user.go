@@ -8,7 +8,7 @@ import (
 
 	"entgo.io/ent/dialect/sql"
 	"github.com/google/uuid"
-	"github.com/masseelch/elk/internal/uuid/ent/user"
+	"github.com/chestarss/elk/internal/uuid/ent/user"
 )
 
 // User is the model entity for the User schema.

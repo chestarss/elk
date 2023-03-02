@@ -8,10 +8,10 @@ import (
 	easyjson "github.com/mailru/easyjson"
 	jlexer "github.com/mailru/easyjson/jlexer"
 	jwriter "github.com/mailru/easyjson/jwriter"
-	badge "github.com/masseelch/elk/internal/pets/ent/badge"
-	pet "github.com/masseelch/elk/internal/pets/ent/pet"
-	playgroup "github.com/masseelch/elk/internal/pets/ent/playgroup"
-	toy "github.com/masseelch/elk/internal/pets/ent/toy"
+	badge "github.com/chestarss/elk/internal/pets/ent/badge"
+	pet "github.com/chestarss/elk/internal/pets/ent/pet"
+	playgroup "github.com/chestarss/elk/internal/pets/ent/playgroup"
+	toy "github.com/chestarss/elk/internal/pets/ent/toy"
 	time "time"
 )
 

@@ -7,11 +7,11 @@ import (
 	"strings"
 
 	"github.com/mailru/easyjson"
-	"github.com/masseelch/elk/internal/pets/ent"
-	badge "github.com/masseelch/elk/internal/pets/ent/badge"
-	pet "github.com/masseelch/elk/internal/pets/ent/pet"
-	playgroup "github.com/masseelch/elk/internal/pets/ent/playgroup"
-	toy "github.com/masseelch/elk/internal/pets/ent/toy"
+	"github.com/chestarss/elk/internal/pets/ent"
+	badge "github.com/chestarss/elk/internal/pets/ent/badge"
+	pet "github.com/chestarss/elk/internal/pets/ent/pet"
+	playgroup "github.com/chestarss/elk/internal/pets/ent/playgroup"
+	toy "github.com/chestarss/elk/internal/pets/ent/toy"
 	"go.uber.org/zap"
 )
 

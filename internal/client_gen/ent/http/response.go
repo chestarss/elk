@@ -8,8 +8,8 @@ import (
 
 	"github.com/google/uuid"
 	"github.com/mailru/easyjson"
-	"github.com/masseelch/elk/internal/client_gen/ent"
-	collar "github.com/masseelch/elk/internal/client_gen/ent/collar"
+	"github.com/chestarss/elk/internal/client_gen/ent"
+	collar "github.com/chestarss/elk/internal/client_gen/ent/collar"
 )
 
 // Basic HTTP Error Response

@@ -5,9 +5,9 @@ package enttest
 import (
 	"context"
 
-	"github.com/masseelch/elk/internal/openapi/ent"
+	"github.com/chestarss/elk/internal/openapi/ent"
 	// required by schema hooks.
-	_ "github.com/masseelch/elk/internal/openapi/ent/runtime"
+	_ "github.com/chestarss/elk/internal/openapi/ent/runtime"
 
 	"entgo.io/ent/dialect/sql/schema"
 )

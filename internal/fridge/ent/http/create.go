@@ -6,10 +6,10 @@ import (
 	"net/http"
 
 	"github.com/mailru/easyjson"
-	"github.com/masseelch/elk/internal/fridge/ent"
-	"github.com/masseelch/elk/internal/fridge/ent/compartment"
-	"github.com/masseelch/elk/internal/fridge/ent/fridge"
-	"github.com/masseelch/elk/internal/fridge/ent/item"
+	"github.com/chestarss/elk/internal/fridge/ent"
+	"github.com/chestarss/elk/internal/fridge/ent/compartment"
+	"github.com/chestarss/elk/internal/fridge/ent/fridge"
+	"github.com/chestarss/elk/internal/fridge/ent/item"
 	"go.uber.org/zap"
 )
 

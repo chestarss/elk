@@ -9,8 +9,8 @@ import (
 	"entgo.io/ent/dialect/sql"
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"entgo.io/ent/schema/field"
-	"github.com/masseelch/elk/internal/fridge/ent/compartment"
-	"github.com/masseelch/elk/internal/fridge/ent/predicate"
+	"github.com/chestarss/elk/internal/fridge/ent/compartment"
+	"github.com/chestarss/elk/internal/fridge/ent/predicate"
 )
 
 // CompartmentDelete is the builder for deleting a Compartment entity.

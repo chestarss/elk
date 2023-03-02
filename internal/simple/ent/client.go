@@ -8,13 +8,13 @@ import (
 	"log"
 
 	"github.com/google/uuid"
-	"github.com/masseelch/elk/internal/simple/ent/migrate"
+	"github.com/chestarss/elk/internal/simple/ent/migrate"
 
-	"github.com/masseelch/elk/internal/simple/ent/category"
-	"github.com/masseelch/elk/internal/simple/ent/collar"
-	"github.com/masseelch/elk/internal/simple/ent/media"
-	"github.com/masseelch/elk/internal/simple/ent/owner"
-	"github.com/masseelch/elk/internal/simple/ent/pet"
+	"github.com/chestarss/elk/internal/simple/ent/category"
+	"github.com/chestarss/elk/internal/simple/ent/collar"
+	"github.com/chestarss/elk/internal/simple/ent/media"
+	"github.com/chestarss/elk/internal/simple/ent/owner"
+	"github.com/chestarss/elk/internal/simple/ent/pet"
 
 	"entgo.io/ent/dialect"
 	"entgo.io/ent/dialect/sql"

@@ -8,7 +8,7 @@ import (
 	easyjson "github.com/mailru/easyjson"
 	jlexer "github.com/mailru/easyjson/jlexer"
 	jwriter "github.com/mailru/easyjson/jwriter"
-	collar "github.com/masseelch/elk/internal/client_gen/ent/collar"
+	collar "github.com/chestarss/elk/internal/client_gen/ent/collar"
 )
 
 // suppress unused package warning

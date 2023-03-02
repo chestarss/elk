@@ -7,8 +7,8 @@ import (
 	"strings"
 
 	"entgo.io/ent/dialect/sql"
-	"github.com/masseelch/elk/internal/fridge/ent/compartment"
-	"github.com/masseelch/elk/internal/fridge/ent/item"
+	"github.com/chestarss/elk/internal/fridge/ent/compartment"
+	"github.com/chestarss/elk/internal/fridge/ent/item"
 )
 
 // Item is the model entity for the Item schema.

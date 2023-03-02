@@ -8,7 +8,7 @@ import (
 
 	"github.com/google/uuid"
 	"github.com/mailru/easyjson"
-	"github.com/masseelch/elk/internal/uuid/ent"
+	"github.com/chestarss/elk/internal/uuid/ent"
 )
 
 // Basic HTTP Error Response

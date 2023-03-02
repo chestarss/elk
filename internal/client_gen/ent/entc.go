@@ -8,7 +8,7 @@ import (
 	"entgo.io/ent/entc/gen"
 	"github.com/deepmap/oapi-codegen/pkg/codegen"
 	"github.com/deepmap/oapi-codegen/pkg/util"
-	"github.com/masseelch/elk"
+	"github.com/chestarss/elk"
 	"io/ioutil"
 	"log"
 	"os"

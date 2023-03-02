@@ -10,8 +10,8 @@ import (
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"entgo.io/ent/schema/field"
 	"github.com/google/uuid"
-	"github.com/masseelch/elk/internal/pets/ent/pet"
-	"github.com/masseelch/elk/internal/pets/ent/toy"
+	"github.com/chestarss/elk/internal/pets/ent/pet"
+	"github.com/chestarss/elk/internal/pets/ent/toy"
 )
 
 // ToyCreate is the builder for creating a Toy entity.

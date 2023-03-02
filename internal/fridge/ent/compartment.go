@@ -7,8 +7,8 @@ import (
 	"strings"
 
 	"entgo.io/ent/dialect/sql"
-	"github.com/masseelch/elk/internal/fridge/ent/compartment"
-	"github.com/masseelch/elk/internal/fridge/ent/fridge"
+	"github.com/chestarss/elk/internal/fridge/ent/compartment"
+	"github.com/chestarss/elk/internal/fridge/ent/fridge"
 )
 
 // Compartment is the model entity for the Compartment schema.

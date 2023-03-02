@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"entgo.io/ent/dialect/sql"
-	"github.com/masseelch/elk/internal/openapi/ent/owner"
+	"github.com/chestarss/elk/internal/openapi/ent/owner"
 )
 
 // Owner is the model entity for the Owner schema.

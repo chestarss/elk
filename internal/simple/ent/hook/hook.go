@@ -6,7 +6,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/masseelch/elk/internal/simple/ent"
+	"github.com/chestarss/elk/internal/simple/ent"
 )
 
 // The CategoryFunc type is an adapter to allow the use of ordinary

@@ -2,7 +2,7 @@
 
 package runtime
 
-// The schema-stitching logic is generated in github.com/masseelch/elk/internal/openapi/ent/runtime.go
+// The schema-stitching logic is generated in github.com/chestarss/elk/internal/openapi/ent/runtime.go
 
 const (
 	Version = "(devel)" // Version of ent codegen.

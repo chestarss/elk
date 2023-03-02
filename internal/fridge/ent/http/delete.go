@@ -7,7 +7,7 @@ import (
 	"strconv"
 
 	"github.com/go-chi/chi/v5"
-	"github.com/masseelch/elk/internal/fridge/ent"
+	"github.com/chestarss/elk/internal/fridge/ent"
 	"go.uber.org/zap"
 )
 

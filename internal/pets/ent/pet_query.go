@@ -12,11 +12,11 @@ import (
 	"entgo.io/ent/dialect/sql"
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"entgo.io/ent/schema/field"
-	"github.com/masseelch/elk/internal/pets/ent/badge"
-	"github.com/masseelch/elk/internal/pets/ent/pet"
-	"github.com/masseelch/elk/internal/pets/ent/playgroup"
-	"github.com/masseelch/elk/internal/pets/ent/predicate"
-	"github.com/masseelch/elk/internal/pets/ent/toy"
+	"github.com/chestarss/elk/internal/pets/ent/badge"
+	"github.com/chestarss/elk/internal/pets/ent/pet"
+	"github.com/chestarss/elk/internal/pets/ent/playgroup"
+	"github.com/chestarss/elk/internal/pets/ent/predicate"
+	"github.com/chestarss/elk/internal/pets/ent/toy"
 )
 
 // PetQuery is the builder for querying Pet entities.

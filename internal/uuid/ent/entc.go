@@ -8,7 +8,7 @@ import (
 
 	"entgo.io/ent/entc"
 	"entgo.io/ent/entc/gen"
-	"github.com/masseelch/elk"
+	"github.com/chestarss/elk"
 )
 
 func main() {

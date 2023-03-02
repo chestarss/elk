@@ -9,11 +9,11 @@ import (
 	"github.com/go-chi/chi/v5"
 	"github.com/google/uuid"
 	"github.com/mailru/easyjson"
-	"github.com/masseelch/elk/internal/simple/ent"
-	"github.com/masseelch/elk/internal/simple/ent/category"
-	collar "github.com/masseelch/elk/internal/simple/ent/collar"
-	"github.com/masseelch/elk/internal/simple/ent/owner"
-	"github.com/masseelch/elk/internal/simple/ent/pet"
+	"github.com/chestarss/elk/internal/simple/ent"
+	"github.com/chestarss/elk/internal/simple/ent/category"
+	collar "github.com/chestarss/elk/internal/simple/ent/collar"
+	"github.com/chestarss/elk/internal/simple/ent/owner"
+	"github.com/chestarss/elk/internal/simple/ent/pet"
 	"go.uber.org/zap"
 )
 

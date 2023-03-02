@@ -9,8 +9,8 @@ import (
 	"entgo.io/ent/dialect/sql"
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"entgo.io/ent/schema/field"
-	"github.com/masseelch/elk/internal/simple/ent/owner"
-	"github.com/masseelch/elk/internal/simple/ent/predicate"
+	"github.com/chestarss/elk/internal/simple/ent/owner"
+	"github.com/chestarss/elk/internal/simple/ent/predicate"
 )
 
 // OwnerDelete is the builder for deleting a Owner entity.

@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/masseelch/elk/internal/uuid/ent/migrate"
+	"github.com/chestarss/elk/internal/uuid/ent/migrate"
 
-	"github.com/masseelch/elk/internal/uuid/ent/user"
+	"github.com/chestarss/elk/internal/uuid/ent/user"
 
 	"entgo.io/ent/dialect"
 	"entgo.io/ent/dialect/sql"

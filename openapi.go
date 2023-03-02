@@ -10,7 +10,7 @@ import (
 
 	"entgo.io/ent/entc/gen"
 	"github.com/go-openapi/inflect"
-	"github.com/masseelch/elk/spec"
+	"github.com/chestarss/elk/spec"
 	"github.com/stoewer/go-strcase"
 )
 

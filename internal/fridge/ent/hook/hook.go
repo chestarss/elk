@@ -6,7 +6,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/masseelch/elk/internal/fridge/ent"
+	"github.com/chestarss/elk/internal/fridge/ent"
 )
 
 // The CompartmentFunc type is an adapter to allow the use of ordinary

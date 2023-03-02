@@ -9,9 +9,9 @@ import (
 	"entgo.io/ent/dialect/sql"
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"entgo.io/ent/schema/field"
-	"github.com/masseelch/elk/internal/openapi/ent/category"
-	"github.com/masseelch/elk/internal/openapi/ent/pet"
-	"github.com/masseelch/elk/internal/openapi/ent/predicate"
+	"github.com/chestarss/elk/internal/openapi/ent/category"
+	"github.com/chestarss/elk/internal/openapi/ent/pet"
+	"github.com/chestarss/elk/internal/openapi/ent/predicate"
 )
 
 // CategoryUpdate is the builder for updating Category entities.

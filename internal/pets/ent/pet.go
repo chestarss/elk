@@ -10,8 +10,8 @@ import (
 
 	"entgo.io/ent/dialect/sql"
 	"github.com/google/uuid"
-	"github.com/masseelch/elk/internal/pets/ent/badge"
-	"github.com/masseelch/elk/internal/pets/ent/pet"
+	"github.com/chestarss/elk/internal/pets/ent/badge"
+	"github.com/chestarss/elk/internal/pets/ent/pet"
 )
 
 // Pet is the model entity for the Pet schema.

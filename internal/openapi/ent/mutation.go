@@ -7,10 +7,10 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/masseelch/elk/internal/openapi/ent/category"
-	"github.com/masseelch/elk/internal/openapi/ent/owner"
-	"github.com/masseelch/elk/internal/openapi/ent/pet"
-	"github.com/masseelch/elk/internal/openapi/ent/predicate"
+	"github.com/chestarss/elk/internal/openapi/ent/category"
+	"github.com/chestarss/elk/internal/openapi/ent/owner"
+	"github.com/chestarss/elk/internal/openapi/ent/pet"
+	"github.com/chestarss/elk/internal/openapi/ent/predicate"
 
 	"entgo.io/ent"
 )

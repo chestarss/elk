@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"entgo.io/ent/dialect/sql"
-	"github.com/masseelch/elk/internal/openapi/ent/category"
+	"github.com/chestarss/elk/internal/openapi/ent/category"
 )
 
 // Category is the model entity for the Category schema.

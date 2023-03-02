@@ -6,7 +6,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/masseelch/elk/internal/uuid/ent"
+	"github.com/chestarss/elk/internal/uuid/ent"
 )
 
 // The UserFunc type is an adapter to allow the use of ordinary

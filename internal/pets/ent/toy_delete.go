@@ -9,8 +9,8 @@ import (
 	"entgo.io/ent/dialect/sql"
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"entgo.io/ent/schema/field"
-	"github.com/masseelch/elk/internal/pets/ent/predicate"
-	"github.com/masseelch/elk/internal/pets/ent/toy"
+	"github.com/chestarss/elk/internal/pets/ent/predicate"
+	"github.com/chestarss/elk/internal/pets/ent/toy"
 )
 
 // ToyDelete is the builder for deleting a Toy entity.

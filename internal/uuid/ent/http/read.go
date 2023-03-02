@@ -8,8 +8,8 @@ import (
 
 	"github.com/go-chi/chi/v5"
 	"github.com/mailru/easyjson"
-	"github.com/masseelch/elk/internal/uuid/ent"
-	"github.com/masseelch/elk/internal/uuid/ent/user"
+	"github.com/chestarss/elk/internal/uuid/ent"
+	"github.com/chestarss/elk/internal/uuid/ent/user"
 	"go.uber.org/zap"
 )
 

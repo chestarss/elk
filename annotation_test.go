@@ -1,8 +1,8 @@
 package elk
 
 import (
-	"github.com/masseelch/elk/serialization"
-	"github.com/masseelch/elk/spec"
+	"github.com/chestarss/elk/serialization"
+	"github.com/chestarss/elk/spec"
 	"github.com/stretchr/testify/require"
 	"testing"
 )

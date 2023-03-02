@@ -5,8 +5,8 @@ import (
 	"entgo.io/ent/schema"
 	"entgo.io/ent/schema/edge"
 	"entgo.io/ent/schema/field"
-	"github.com/masseelch/elk"
-	"github.com/masseelch/elk/spec"
+	"github.com/chestarss/elk"
+	"github.com/chestarss/elk/spec"
 )
 
 // Pet holds the schema definition for the Pet entity.

@@ -5,7 +5,7 @@ package user
 import (
 	"entgo.io/ent/dialect/sql"
 	"github.com/google/uuid"
-	"github.com/masseelch/elk/internal/uuid/ent/predicate"
+	"github.com/chestarss/elk/internal/uuid/ent/predicate"
 )
 
 // ID filters vertices based on their ID field.

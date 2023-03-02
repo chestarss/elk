@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"entgo.io/ent/dialect/sql"
-	"github.com/masseelch/elk/internal/simple/ent/media"
+	"github.com/chestarss/elk/internal/simple/ent/media"
 )
 
 // Media is the model entity for the Media schema.

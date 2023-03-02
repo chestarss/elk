@@ -5,9 +5,9 @@ package enttest
 import (
 	"context"
 
-	"github.com/masseelch/elk/internal/fridge/ent"
+	"github.com/chestarss/elk/internal/fridge/ent"
 	// required by schema hooks.
-	_ "github.com/masseelch/elk/internal/fridge/ent/runtime"
+	_ "github.com/chestarss/elk/internal/fridge/ent/runtime"
 
 	"entgo.io/ent/dialect/sql/schema"
 )

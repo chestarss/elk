@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/go-chi/chi/v5"
-	"github.com/masseelch/elk/internal/client_gen/ent"
+	"github.com/chestarss/elk/internal/client_gen/ent"
 	"go.uber.org/zap"
 )
 

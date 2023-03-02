@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"entgo.io/ent/dialect/sql"
-	"github.com/masseelch/elk/internal/fridge/ent/fridge"
+	"github.com/chestarss/elk/internal/fridge/ent/fridge"
 )
 
 // Fridge is the model entity for the Fridge schema.

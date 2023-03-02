@@ -8,7 +8,7 @@ import (
 
 	"entgo.io/ent"
 	"entgo.io/ent/dialect/sql"
-	"github.com/masseelch/elk/internal/uuid/ent/user"
+	"github.com/chestarss/elk/internal/uuid/ent/user"
 )
 
 // ent aliases to avoid import conflicts in user's code.

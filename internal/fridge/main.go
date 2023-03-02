@@ -5,8 +5,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/masseelch/elk/internal/fridge/ent"
-	elk "github.com/masseelch/elk/internal/fridge/ent/http"
+	"github.com/chestarss/elk/internal/fridge/ent"
+	elk "github.com/chestarss/elk/internal/fridge/ent/http"
 
 	_ "github.com/mattn/go-sqlite3"
 	"go.uber.org/zap"

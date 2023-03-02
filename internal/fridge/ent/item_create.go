@@ -9,8 +9,8 @@ import (
 
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"entgo.io/ent/schema/field"
-	"github.com/masseelch/elk/internal/fridge/ent/compartment"
-	"github.com/masseelch/elk/internal/fridge/ent/item"
+	"github.com/chestarss/elk/internal/fridge/ent/compartment"
+	"github.com/chestarss/elk/internal/fridge/ent/item"
 )
 
 // ItemCreate is the builder for creating a Item entity.

@@ -4,7 +4,7 @@ package http
 
 import (
 	"github.com/google/uuid"
-	collar "github.com/masseelch/elk/internal/simple/ent/collar"
+	collar "github.com/chestarss/elk/internal/simple/ent/collar"
 )
 
 // Payload of a ent.Category create request.

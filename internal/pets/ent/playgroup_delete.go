@@ -9,8 +9,8 @@ import (
 	"entgo.io/ent/dialect/sql"
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"entgo.io/ent/schema/field"
-	"github.com/masseelch/elk/internal/pets/ent/playgroup"
-	"github.com/masseelch/elk/internal/pets/ent/predicate"
+	"github.com/chestarss/elk/internal/pets/ent/playgroup"
+	"github.com/chestarss/elk/internal/pets/ent/predicate"
 )
 
 // PlayGroupDelete is the builder for deleting a PlayGroup entity.

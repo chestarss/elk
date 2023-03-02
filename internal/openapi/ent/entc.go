@@ -6,8 +6,8 @@ package main
 import (
 	"entgo.io/ent/entc"
 	"entgo.io/ent/entc/gen"
-	"github.com/masseelch/elk"
-	"github.com/masseelch/elk/spec"
+	"github.com/chestarss/elk"
+	"github.com/chestarss/elk/spec"
 	"log"
 )
 

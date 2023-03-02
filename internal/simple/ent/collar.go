@@ -7,8 +7,8 @@ import (
 	"strings"
 
 	"entgo.io/ent/dialect/sql"
-	"github.com/masseelch/elk/internal/simple/ent/collar"
-	"github.com/masseelch/elk/internal/simple/ent/pet"
+	"github.com/chestarss/elk/internal/simple/ent/collar"
+	"github.com/chestarss/elk/internal/simple/ent/pet"
 )
 
 // Collar is the model entity for the Collar schema.

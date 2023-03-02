@@ -8,9 +8,9 @@ import (
 
 	"entgo.io/ent/dialect/sql"
 	"github.com/google/uuid"
-	"github.com/masseelch/elk/internal/client_gen/ent/collar"
-	"github.com/masseelch/elk/internal/client_gen/ent/owner"
-	"github.com/masseelch/elk/internal/client_gen/ent/pet"
+	"github.com/chestarss/elk/internal/client_gen/ent/collar"
+	"github.com/chestarss/elk/internal/client_gen/ent/owner"
+	"github.com/chestarss/elk/internal/client_gen/ent/pet"
 )
 
 // Pet is the model entity for the Pet schema.

@@ -4,8 +4,8 @@ package ent
 
 import (
 	"github.com/google/uuid"
-	"github.com/masseelch/elk/internal/uuid/ent/schema"
-	"github.com/masseelch/elk/internal/uuid/ent/user"
+	"github.com/chestarss/elk/internal/uuid/ent/schema"
+	"github.com/chestarss/elk/internal/uuid/ent/user"
 )
 
 // The init function reads all schema descriptors with runtime code

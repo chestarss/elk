@@ -8,8 +8,8 @@ import (
 
 	"entgo.io/ent/dialect/sql"
 	"github.com/google/uuid"
-	"github.com/masseelch/elk/internal/pets/ent/pet"
-	"github.com/masseelch/elk/internal/pets/ent/toy"
+	"github.com/chestarss/elk/internal/pets/ent/pet"
+	"github.com/chestarss/elk/internal/pets/ent/toy"
 )
 
 // Toy is the model entity for the Toy schema.

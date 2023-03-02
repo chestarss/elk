@@ -10,10 +10,10 @@ import (
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"entgo.io/ent/schema/field"
 	"github.com/google/uuid"
-	"github.com/masseelch/elk/internal/client_gen/ent/category"
-	"github.com/masseelch/elk/internal/client_gen/ent/collar"
-	"github.com/masseelch/elk/internal/client_gen/ent/owner"
-	"github.com/masseelch/elk/internal/client_gen/ent/pet"
+	"github.com/chestarss/elk/internal/client_gen/ent/category"
+	"github.com/chestarss/elk/internal/client_gen/ent/collar"
+	"github.com/chestarss/elk/internal/client_gen/ent/owner"
+	"github.com/chestarss/elk/internal/client_gen/ent/pet"
 )
 
 // PetCreate is the builder for creating a Pet entity.

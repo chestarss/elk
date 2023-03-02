@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"entgo.io/ent/dialect/sql"
-	"github.com/masseelch/elk/internal/pets/ent/playgroup"
+	"github.com/chestarss/elk/internal/pets/ent/playgroup"
 )
 
 // PlayGroup is the model entity for the PlayGroup schema.

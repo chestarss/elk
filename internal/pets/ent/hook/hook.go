@@ -6,7 +6,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/masseelch/elk/internal/pets/ent"
+	"github.com/chestarss/elk/internal/pets/ent"
 )
 
 // The BadgeFunc type is an adapter to allow the use of ordinary

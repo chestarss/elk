@@ -9,8 +9,8 @@ import (
 	"entgo.io/ent/dialect/sql"
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"entgo.io/ent/schema/field"
-	"github.com/masseelch/elk/internal/uuid/ent/predicate"
-	"github.com/masseelch/elk/internal/uuid/ent/user"
+	"github.com/chestarss/elk/internal/uuid/ent/predicate"
+	"github.com/chestarss/elk/internal/uuid/ent/user"
 )
 
 // UserDelete is the builder for deleting a User entity.

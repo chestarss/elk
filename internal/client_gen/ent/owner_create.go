@@ -10,8 +10,8 @@ import (
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"entgo.io/ent/schema/field"
 	"github.com/google/uuid"
-	"github.com/masseelch/elk/internal/client_gen/ent/owner"
-	"github.com/masseelch/elk/internal/client_gen/ent/pet"
+	"github.com/chestarss/elk/internal/client_gen/ent/owner"
+	"github.com/chestarss/elk/internal/client_gen/ent/pet"
 )
 
 // OwnerCreate is the builder for creating a Owner entity.

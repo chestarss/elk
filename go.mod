@@ -1,4 +1,4 @@
-module github.com/masseelch/elk
+module github.com/chestarss/elk
 
 go 1.17
 

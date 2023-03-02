@@ -6,7 +6,7 @@ import (
 	"entgo.io/ent/dialect/sql"
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"github.com/google/uuid"
-	"github.com/masseelch/elk/internal/client_gen/ent/predicate"
+	"github.com/chestarss/elk/internal/client_gen/ent/predicate"
 )
 
 // ID filters vertices based on their ID field.

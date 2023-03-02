@@ -8,9 +8,9 @@ import (
 
 	"entgo.io/ent"
 	"entgo.io/ent/dialect/sql"
-	"github.com/masseelch/elk/internal/openapi/ent/category"
-	"github.com/masseelch/elk/internal/openapi/ent/owner"
-	"github.com/masseelch/elk/internal/openapi/ent/pet"
+	"github.com/chestarss/elk/internal/openapi/ent/category"
+	"github.com/chestarss/elk/internal/openapi/ent/owner"
+	"github.com/chestarss/elk/internal/openapi/ent/pet"
 )
 
 // ent aliases to avoid import conflicts in user's code.

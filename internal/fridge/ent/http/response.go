@@ -7,7 +7,7 @@ import (
 	"strconv"
 
 	"github.com/mailru/easyjson"
-	"github.com/masseelch/elk/internal/fridge/ent"
+	"github.com/chestarss/elk/internal/fridge/ent"
 )
 
 // Basic HTTP Error Response

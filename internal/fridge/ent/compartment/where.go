@@ -5,7 +5,7 @@ package compartment
 import (
 	"entgo.io/ent/dialect/sql"
 	"entgo.io/ent/dialect/sql/sqlgraph"
-	"github.com/masseelch/elk/internal/fridge/ent/predicate"
+	"github.com/chestarss/elk/internal/fridge/ent/predicate"
 )
 
 // ID filters vertices based on their ID field.

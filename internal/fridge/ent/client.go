@@ -7,11 +7,11 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/masseelch/elk/internal/fridge/ent/migrate"
+	"github.com/chestarss/elk/internal/fridge/ent/migrate"
 
-	"github.com/masseelch/elk/internal/fridge/ent/compartment"
-	"github.com/masseelch/elk/internal/fridge/ent/fridge"
-	"github.com/masseelch/elk/internal/fridge/ent/item"
+	"github.com/chestarss/elk/internal/fridge/ent/compartment"
+	"github.com/chestarss/elk/internal/fridge/ent/fridge"
+	"github.com/chestarss/elk/internal/fridge/ent/item"
 
 	"entgo.io/ent/dialect"
 	"entgo.io/ent/dialect/sql"

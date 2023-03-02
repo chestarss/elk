@@ -9,8 +9,8 @@ import (
 
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"entgo.io/ent/schema/field"
-	"github.com/masseelch/elk/internal/client_gen/ent/category"
-	"github.com/masseelch/elk/internal/client_gen/ent/pet"
+	"github.com/chestarss/elk/internal/client_gen/ent/category"
+	"github.com/chestarss/elk/internal/client_gen/ent/pet"
 )
 
 // CategoryCreate is the builder for creating a Category entity.

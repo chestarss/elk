@@ -10,8 +10,8 @@ import (
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"entgo.io/ent/schema/field"
 	"github.com/google/uuid"
-	"github.com/masseelch/elk/internal/uuid/ent/predicate"
-	"github.com/masseelch/elk/internal/uuid/ent/user"
+	"github.com/chestarss/elk/internal/uuid/ent/predicate"
+	"github.com/chestarss/elk/internal/uuid/ent/user"
 )
 
 // UserUpdate is the builder for updating User entities.

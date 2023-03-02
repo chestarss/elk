@@ -5,7 +5,7 @@ package playgroup
 import (
 	"entgo.io/ent/dialect/sql"
 	"entgo.io/ent/dialect/sql/sqlgraph"
-	"github.com/masseelch/elk/internal/pets/ent/predicate"
+	"github.com/chestarss/elk/internal/pets/ent/predicate"
 )
 
 // ID filters vertices based on their ID field.

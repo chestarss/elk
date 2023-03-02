@@ -8,7 +8,7 @@ import (
 
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"entgo.io/ent/schema/field"
-	"github.com/masseelch/elk/internal/simple/ent/media"
+	"github.com/chestarss/elk/internal/simple/ent/media"
 )
 
 // MediaCreate is the builder for creating a Media entity.

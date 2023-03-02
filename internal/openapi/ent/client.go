@@ -7,11 +7,11 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/masseelch/elk/internal/openapi/ent/migrate"
+	"github.com/chestarss/elk/internal/openapi/ent/migrate"
 
-	"github.com/masseelch/elk/internal/openapi/ent/category"
-	"github.com/masseelch/elk/internal/openapi/ent/owner"
-	"github.com/masseelch/elk/internal/openapi/ent/pet"
+	"github.com/chestarss/elk/internal/openapi/ent/category"
+	"github.com/chestarss/elk/internal/openapi/ent/owner"
+	"github.com/chestarss/elk/internal/openapi/ent/pet"
 
 	"entgo.io/ent/dialect"
 	"entgo.io/ent/dialect/sql"

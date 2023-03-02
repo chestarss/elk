@@ -8,11 +8,11 @@ import (
 
 	"entgo.io/ent"
 	"entgo.io/ent/dialect/sql"
-	"github.com/masseelch/elk/internal/simple/ent/category"
-	"github.com/masseelch/elk/internal/simple/ent/collar"
-	"github.com/masseelch/elk/internal/simple/ent/media"
-	"github.com/masseelch/elk/internal/simple/ent/owner"
-	"github.com/masseelch/elk/internal/simple/ent/pet"
+	"github.com/chestarss/elk/internal/simple/ent/category"
+	"github.com/chestarss/elk/internal/simple/ent/collar"
+	"github.com/chestarss/elk/internal/simple/ent/media"
+	"github.com/chestarss/elk/internal/simple/ent/owner"
+	"github.com/chestarss/elk/internal/simple/ent/pet"
 )
 
 // ent aliases to avoid import conflicts in user's code.

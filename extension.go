@@ -5,7 +5,7 @@ import (
 	"entgo.io/ent/entc"
 	"entgo.io/ent/entc/gen"
 	"errors"
-	"github.com/masseelch/elk/spec"
+	"github.com/chestarss/elk/spec"
 	"io"
 )
 

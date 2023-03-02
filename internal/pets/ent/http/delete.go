@@ -8,7 +8,7 @@ import (
 
 	"github.com/go-chi/chi/v5"
 	"github.com/google/uuid"
-	"github.com/masseelch/elk/internal/pets/ent"
+	"github.com/chestarss/elk/internal/pets/ent"
 	"go.uber.org/zap"
 )
 

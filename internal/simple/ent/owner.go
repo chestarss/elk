@@ -8,7 +8,7 @@ import (
 
 	"entgo.io/ent/dialect/sql"
 	"github.com/google/uuid"
-	"github.com/masseelch/elk/internal/simple/ent/owner"
+	"github.com/chestarss/elk/internal/simple/ent/owner"
 )
 
 // Owner is the model entity for the Owner schema.

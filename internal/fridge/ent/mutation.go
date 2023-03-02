@@ -7,10 +7,10 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/masseelch/elk/internal/fridge/ent/compartment"
-	"github.com/masseelch/elk/internal/fridge/ent/fridge"
-	"github.com/masseelch/elk/internal/fridge/ent/item"
-	"github.com/masseelch/elk/internal/fridge/ent/predicate"
+	"github.com/chestarss/elk/internal/fridge/ent/compartment"
+	"github.com/chestarss/elk/internal/fridge/ent/fridge"
+	"github.com/chestarss/elk/internal/fridge/ent/item"
+	"github.com/chestarss/elk/internal/fridge/ent/predicate"
 
 	"entgo.io/ent"
 )

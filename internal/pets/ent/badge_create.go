@@ -9,8 +9,8 @@ import (
 
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"entgo.io/ent/schema/field"
-	"github.com/masseelch/elk/internal/pets/ent/badge"
-	"github.com/masseelch/elk/internal/pets/ent/pet"
+	"github.com/chestarss/elk/internal/pets/ent/badge"
+	"github.com/chestarss/elk/internal/pets/ent/pet"
 )
 
 // BadgeCreate is the builder for creating a Badge entity.
